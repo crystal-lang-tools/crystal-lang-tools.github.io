@@ -1,3 +1,5 @@
+# Crystal Lang Tools
+
 <div style="text-align:center"><img src="logo.png" alt="crystal"></div>
 
 ## Welcome to Crystal Lang Tools webpage!
